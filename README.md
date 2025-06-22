@@ -1,2 +1,1 @@
-# code-soft-python-task
-tasks
+# codesoft_Task_2_calculator
